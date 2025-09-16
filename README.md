@@ -19,10 +19,6 @@ Sou um programador apaixonado por criar soluções tecnológicas inovadoras que 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayzrus&layout=compact&theme=dark&langs_count=8" height="165" alt="Most Used Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayzrus&theme=dark" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 🛠️ Stack Tecnológica
